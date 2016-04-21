@@ -1,1 +1,15 @@
 This is an animal template for a DokuWiki Farm [http://www.dokuwiki.org/farms].
+
+I'm not the maintainer
+======================
+
+I find this core here:
+https://www.dokuwiki.org/farms
+Download a zip from this url
+https://www.dokuwiki.org/_media/dokuwiki_farm_animal.zip
+With this md5
+2502587a32589faf8fb6c194f598aafb
+
+To use, clone with
+`git clone --branch=20160421 github.com:souenzzo/dokuwiki_farm_animal.git`
+
